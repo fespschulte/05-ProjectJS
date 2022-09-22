@@ -4,4 +4,7 @@
 
  Tópicos:
 
- [] 
+ [] Tipo de dado: Number
+ [] Operador matemático
+ [] Manipulação de dados
+ [] type conversion (type casting)
