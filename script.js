@@ -5,4 +5,6 @@
   "Olá, [nome do usuário]"
 */
 
-prompt("Qual o seu nome?")
+let nome = prompt("Qual o seu nome?")
+alert("Olá, " + nome)
+
