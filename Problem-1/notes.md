@@ -1,10 +1,11 @@
-/*
   Encontre a solução do problema:
 
   Pergunte o nome do usuário e escreva a mensagem:
   "Olá, [nome do usuário]"
-*/
 
-let nome = prompt("Qual o seu nome?")
-alert("Olá, " + nome)
+ Tópicos:
 
+ [] Executar funções
+ [] Criação de variáveis
+ [] Concatenação
+ [] tipo de dado: String
