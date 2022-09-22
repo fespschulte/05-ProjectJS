@@ -1,0 +1,1 @@
+alert("Importando o script")
