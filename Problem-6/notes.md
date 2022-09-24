@@ -13,7 +13,18 @@ Substitiua o "x" da mensagem pelo número de tentativas.
 
  Tópicos:
 
+ [] Controlar o fluxo da aplicação
  [] Estrutura de repetição
- [] Vetores (Arrays)
- [] 
- [] 
+      [] While
+ [] Gerar um número aleatório
+ [] Tipos de dados: NaN
+    - não é um número
+ [] Tipo de erro: SyntaxError
+    - erro de sintaxe; erro de escrita de código
+ [] Math
+    - Pacote com funcionalidades matemáticas
+    - Math.random()
+    - Math.round() - Math.ceil() - Math.floor()
+ [] console
+    - Pacote com funcionalidades para o console devtools (browser)
+ [] template literals ou template strings
